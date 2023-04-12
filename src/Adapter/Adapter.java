@@ -1,2 +1,4 @@
-package Adapter;public class Adapter {
+package Adapter;
+
+public class Adapter {
 }
