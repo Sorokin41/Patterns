@@ -1,4 +1,4 @@
-package mainMethop;
+package FactoryMethod;
 
 class JavaDeveloper implements Developer {
 	public void writeCode() {

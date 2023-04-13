@@ -1,4 +1,4 @@
-package mainMethop;
+package FactoryMethod;
 
 public class CppDeveloperFuctory implements DeveloperFuctory {
 	
