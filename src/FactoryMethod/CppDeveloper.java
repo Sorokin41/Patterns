@@ -1,4 +1,4 @@
-package mainMethop;
+package FactoryMethod;
 
 public class CppDeveloper implements Developer {
 	public void writeCode() {

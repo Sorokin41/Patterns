@@ -1,4 +1,4 @@
-package mainMethop;
+package FactoryMethod;
 
 public class Programm {
 	public static void main(String[] args) {
