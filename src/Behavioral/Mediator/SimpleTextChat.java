@@ -22,5 +22,6 @@ public class SimpleTextChat implements Chat{
                 currentUser.getMessage(message);
             }
         }
+        admin.getMessage(message);
     }
 }
